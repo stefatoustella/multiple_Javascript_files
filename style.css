@@ -1,0 +1,38 @@
+body {
+  background: linear-gradient(90deg, azure, gray);
+}
+
+#par_id {
+    border: solid black 1px;
+}
+
+.load_more {
+  display: inline;
+  background-color: purple;
+  height: 50px;
+  width: 300px;
+  border: solid red 5px;
+  padding: .5%;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+.load_some_more {
+    display: inline;
+    background-color: purple;
+    height: 50px;
+    width: 300px;
+    border: solid yellowgreen 5px;
+    padding: .5%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#date_time{
+    display: inline;
+    background-color: purple;
+    color: white;
+    font-size: 18px;
+}
